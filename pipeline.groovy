@@ -1,4 +1,4 @@
-pipleline {
+pipeline {
     agent any
     stages {
         stage('Echo Hello'){
